@@ -148,8 +148,28 @@
         <dice></dice>
     </hitdice>
     <deathsaves>
-        <successes></successes>
-        <failures></failures>
+        <successes>
+            <first>
+                <bool></bool>
+            </first>
+            <second>
+                <bool></bool>
+            </second>
+            <third>
+                <bool></bool>
+            </third>
+        </successes>
+        <failures>
+            <first>
+                <bool></bool>
+            </first>
+            <second>
+                <bool></bool>
+            </second>
+            <third>
+                <bool></bool>
+            </third>
+        </failures>
     </deathsaves>
     <personalitytraits></personalitytraits>
     <ideals></ideals>
